@@ -137,7 +137,8 @@ No automated tests exist yet. A module-wise test plan outline is in [`Testing/RE
 ## 👩‍💻 15. Development Team / Contributors
 | Name | Role | GitHub |
 |------|------|--------|
-| Vaishnavi *(add full name)* | Developer | [@Vaishnaviiieeee](https://github.com/Vaishnaviiieeee) |
+| Vaishnavi Sonawane | Developer | [@Vaishnaviiieeee](https://github.com/Vaishnaviiieeee) |
+| Vedanti Pawar | Developer | [username]link). |
 
 **Institution / Course:** MCA *(add college & year)*  
 **Project Guide:** *(add guide's name)*

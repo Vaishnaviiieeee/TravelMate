@@ -138,7 +138,7 @@ No automated tests exist yet. A module-wise test plan outline is in [`Testing/RE
 | Name | Role | GitHub |
 |------|------|--------|
 | Vaishnavi Sonawane | Developer | [@Vaishnaviiieeee](https://github.com/Vaishnaviiieeee) |
-| Vedanti Pawar | Developer | [username]link). |
+| Vedanti Pawar | Developer | [@Vedantii17]https://github.com/Vedantii17). |
 
-**Institution / Course:** MCA *(add college & year)*  
-**Project Guide:** *(add guide's name)*
+**Institution / Course:** MCA *(IMCC College Kothrud Pune)*  
+**Project Guide:** *(Mukul Kulkarni)*
